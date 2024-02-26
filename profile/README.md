@@ -20,7 +20,7 @@
 
 
 ### 백엔드
-<img src="https://github.com/HalfGallonTeam/.github/assets/124044861/7e6439b4-1b1f-40bd-84bd-031e1e4dfeaf">
+<img src="https://github.com/HalfGallonTeam/.github/assets/124044861/7cb65be6-938d-428c-aaa0-4bcd740d695b">
 
 ### 인프라
 
