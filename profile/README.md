@@ -23,7 +23,8 @@
 <img src="https://github.com/HalfGallonTeam/.github/assets/124044861/7cb65be6-938d-428c-aaa0-4bcd740d695b">
 
 ### 인프라
-
+![인프라 수정본](https://github.com/HalfGallonTeam/.github/assets/102509248/0a153315-5295-433d-a943-bd1b70bda12a)
+<br> <br>
 
 ## 프로젝트 아키텍쳐 🏛
 
