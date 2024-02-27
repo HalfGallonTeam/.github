@@ -6,7 +6,7 @@
 ## 프로젝트 소개 📝
 
 
-## 팀원 👨‍👨‍👧‍👧👩‍👦‍👦
+## 팀원 👨‍👨‍👧‍👧
 | <img src="https://avatars.githubusercontent.com/u/124044861?v=4" width="184" height="196"/> | <img src="https://avatars.githubusercontent.com/u/141195262?v=4" width="184" height="196"/> | <img src="https://avatars.githubusercontent.com/u/102509248?v=4" width="184" height="196"/> |<img src="https://github.com/HalfGallonTeam/.github/assets/124044861/5d3a6163-d94b-4ce9-a5c3-f9dccf7b6ea9" width="184" height="196"/>|<img src="https://avatars.githubusercontent.com/u/68311264?v=4" width="184" height="196"/>|<img src="https://avatars.githubusercontent.com/u/112704376?v=4" width="184" height="196"/>|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |**Back-End**|**Back-End**|**Back-End**|**Front-End**|**Back-End**|**Front-End**|
