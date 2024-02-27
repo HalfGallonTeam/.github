@@ -15,16 +15,16 @@
 
 ## 프로젝트 기술스택 💡
 
-
 ### 프론트엔드
-
+<img src="https://github.com/HalfGallonTeam/.github/assets/124044861/2265c86b-43c9-46ba-8ece-6ff166f3629e"></a>
 
 ### 백엔드
-<img src="https://github.com/HalfGallonTeam/.github/assets/124044861/7cb65be6-938d-428c-aaa0-4bcd740d695b">
+<img src="https://github.com/HalfGallonTeam/.github/assets/124044861/f2a0e4b1-66d1-417b-a841-68e899349d46"></a>
 
 ### 인프라
-![인프라 수정본](https://github.com/HalfGallonTeam/.github/assets/102509248/0a153315-5295-433d-a943-bd1b70bda12a)
-<br> <br>
+<img src="https://github.com/HalfGallonTeam/.github/assets/124044861/5ff7bf3a-3b76-4272-9a5a-ee964ce6c736"></a>
+
+<br>
 
 ## 프로젝트 아키텍쳐 🏛
 
