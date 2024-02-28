@@ -27,5 +27,7 @@
 <br>
 
 ## 프로젝트 아키텍쳐 🏛
+![image](https://github.com/HalfGallonTeam/.github/assets/102509248/072d9d7b-b13e-4f6f-b3ef-0808b7280f13)
+
 
 ## ERD 💾 
