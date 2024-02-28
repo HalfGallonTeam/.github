@@ -41,6 +41,7 @@
 |**Back-End**|**Back-End**|**Back-End**|**Front-End**|**Back-End**|**Front-End**|
 |**[민경담](https://github.com/kdmin0706)**|**[박상욱](https://github.com/sosa7753)**|**[박중후](https://github.com/wndgndi)**|**[이단비](https://github.com/bidanee)**|**[최진영](https://github.com/cchoijjinyoung)**|**[허지수](https://github.com/codingbori)**|
 
+<br>
 
 ## 프로젝트 기술스택 💡
 
